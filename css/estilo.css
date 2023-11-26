@@ -160,10 +160,15 @@
   flex: 1;
 }
 
+.container {
+  width: 75 vw;
+  max-width: 1200px;
+  min-width: 320px;
+  margin: auto;
+}
+
 .horus {
   background-image: url(../img/fondo-index.png);
-  width: 100%;
-  height: auto;
 }
 
 .fondoProductos {
@@ -176,6 +181,8 @@
 
 .fondoMate {
   background-image: url(../img/fondo.mate-removebg-preview.png);
+  width: auto;
+  height: auto;
 }
 
 .fondoTermo {
