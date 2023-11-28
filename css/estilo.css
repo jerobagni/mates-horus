@@ -181,8 +181,8 @@
 
 .fondoMate {
   background-image: url(../img/fondo.mate-removebg-preview.png);
-  width: auto;
-  height: auto;
+  width: 100%;
+  max-width: 400px;
 }
 
 .fondoTermo {
