@@ -195,10 +195,6 @@
 
 .fondoAccesorios {
   background-image: url(../img/fondo.accesorios.png);
-  background-position: center;
-  background-size: cover;
-  margin: 0;
-  padding: 0;
 }
 
 .fondoContacto {
